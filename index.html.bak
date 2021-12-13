@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset="UTF-8">
 <title> Будова ком'ютера </title>
 <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
+
 <div id="b1" >
 <center><h1> Будова ком'ютера </h1> </center>
-</div>
+
 <div id="b2">
 <img src="http://storage.inovaco.ru/media/cache/24/5a/d7/40/31/90/245ad7403190656c126e8703d76c431d.jpg" alt="Комп'ютер" width="300" height="300">
 <h1> Складові персонального копм'ютера </h1>
@@ -34,18 +34,18 @@
 
 </div>
 <div id="b5">
-<table border="1" width="400" height="300">
+<table border="1" >
 <tr>
-<td colspan="2"> Складові для введення інформації</td>
-<td> Складові для виведення інформації</td>
+<td width="300" height="50" colspan="2"> Складові для введення інформації</td>
+<td width="150" height="50"> Складові для виведення інформації</td>
 </tr>
 <tr>
-<td>Клавіатура</td>
-<td>Вводить текст та команди.</td>
-<td rowspan="2">Монітор- на екрані відображається інформація, з якою працює комп'ютер</td>
+<td width="150" height="50">Клавіатура</td>
+<td width="150" height="50">Вводить текст та команди.</td>
+<td width="150" height="50" rowspan="2">Монітор- на екрані відображається інформація, з якою працює комп'ютер</td>
 </tr>
 <tr>
-<td>Ми́ша</td>
+<td width="150" height="50">Ми́ша</td>
 <td>Вводить текст та команди.</td>
 
 </tr>
